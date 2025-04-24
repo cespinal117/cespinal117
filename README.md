@@ -13,6 +13,7 @@ Some additional technologies i'm familiar with include: ROS2, Network Fundamenta
 
 # 🔭 What am I working on?
 
+- Custom PCB for a light meter system for my film camera
 - Machine Vision based mobile robot
 - Small robotic arm (6 DOF)
 - Custom STM32 microcontroller PCB
